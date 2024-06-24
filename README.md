@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-![What a lovely banner!](/https://marketplace.canva.com/EAENvp21inc/1/0/1600w/canva-simple-work-linkedin-banner-qt_TMRJF4m0.jpg "lovely mountains")
+![What a lovely banner!](https://marketplace.canva.com/EAENvp21inc/1/0/1600w/canva-simple-work-linkedin-banner-qt_TMRJF4m0.jpg "lovely mountains")
 
 1. What you hope to achieve
 2. What you are learning right now
