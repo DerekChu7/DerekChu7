@@ -1,15 +1,12 @@
 ## Hi there 👋
 
 
-**DerekChu7/DerekChu7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+
 
 ![What a lovely banner!](https://marketplace.canva.com/EAENvp21inc/1/0/1600w/canva-simple-work-linkedin-banner-qt_TMRJF4m0.jpg "lovely mountains")
 
-1. What you hope to achieve
-2. What you are learning right now
-3. What do you hope to study
 
 I hope to achieve a job in computer science, preferably in game development/software development.
 I am currently learning an A level in computer science, that helps me be able to widen my knowledge within the subject and learn more.
@@ -21,6 +18,6 @@ I hope to study software development and to learn how to develop fun and enjoyab
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: 
+- ⚡ Fun fact: I am an avid chess player and am interested in beatbox!
 
